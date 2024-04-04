@@ -1,0 +1,200 @@
+{
+    "events": {
+        "-Mq3Xe9h7OAY6Qq3FpKz": {
+            "name": "Concerto de Jazz no Parque",
+            "description": "Uma tarde relaxante de música jazz ao ar livre.",
+            "location": "Parque da Cidade",
+            "date": 1645622400000,
+            "price": 100.00,
+            "images": [
+                "https://images.pexels.com/photos/442540/pexels-photo-442540.jpeg",
+                "https://images.pexels.com/photos/2530176/pexels-photo-2530176.jpeg"
+            ],
+            "hotels": [
+                {
+                    "name": "Hotel Luxo",
+                    "address": "Rua das Flores, 123",
+                    "proximity": 500,
+                    "dailyRate": 250.00
+                },
+                {
+                    "name": "Hotel Econômico",
+                    "address": "Avenida Central, 456",
+                    "proximity": 1000,
+                    "dailyRate": 120.00
+                }
+            ]
+        },
+        "-Lz9o2q6Rpnv7YsWUDjf": {
+            "name": "Exposição de Arte Moderna",
+            "description": "Uma mostra de pinturas e esculturas contemporâneas.",
+            "location": "Galeria de Arte Municipal",
+            "date": 1645723200000,
+            "price": 50.00,
+            "images": [
+                "https://images.pexels.com/photos/1839919/pexels-photo-1839919.jpeg",
+                "https://images.pexels.com/photos/1604991/pexels-photo-1604991.jpeg"
+            ],
+            "hotels": [
+                {
+                    "name": "Hotel Conforto",
+                    "address": "Praça Central, 789",
+                    "proximity": 700,
+                    "dailyRate": 180.00
+                }
+            ]
+        },
+        "-Kp4w1n8gVz2rUoD9BqE": {
+            "name": "Feira de Gastronomia Local",
+            "description": "Experimente pratos deliciosos da culinária regional.",
+            "location": "Centro de Convenções",
+            "date": 1645815600000,
+            "price": 30.00,
+            "images": [
+                "https://images.pexels.com/photos/7292903/pexels-photo-7292903.jpeg",
+                "https://images.pexels.com/photos/8147948/pexels-photo-8147948.jpeg"
+            ],
+            "hotels": [
+                {
+                    "name": "Hotel Charme",
+                    "address": "Avenida dos Sabores, 321",
+                    "proximity": 800,
+                    "dailyRate": 200.00
+                }
+            ]
+        },
+        "-Jh7Tc5zPqVx9AfG3LnR": {
+            "name": "Festival de Cinema Independente",
+            "description": "Uma seleção de filmes independentes de todo o mundo.",
+            "location": "Cineclube Local",
+            "date": 1645902000000,
+            "price": 0.00,
+            "images": [
+                "https://images.pexels.com/photos/5488369/pexels-photo-5488369.jpeg",
+                "https://images.pexels.com/photos/15035622/pexels-photo-15035622/free-photo-of-cidade-meio-urbano-multidao-amontoado.jpeg"
+            ],
+            "hotels": [
+                {
+                    "name": "Hotel Vintage",
+                    "address": "Rua das Telas, 567",
+                    "proximity": 600,
+                    "dailyRate": 220.00
+                }
+            ]
+        },
+        "-Gr2Lx9pQaZ6sVtK8HmY": {
+            "name": "Feira de Artesanato Urbano",
+            "description": "Explore obras de arte únicas feitas por artistas locais.",
+            "location": "Praça dos Artesãos",
+            "date": 1645988400000,
+            "price": 600.00,
+            "images": [
+                "https://images.pexels.com/photos/5488369/pexels-photo-5488369.jpeg",
+                "https://images.pexels.com/photos/5488369/pexels-photo-5488369.jpeg"
+            ],
+            "hotels": [
+                {
+                    "name": "Hotel Aconchego",
+                    "address": "Avenida das Artes, 987",
+                    "proximity": 400,
+                    "dailyRate": 150.00
+                }
+            ]
+        },
+        "-Fb0Zk7sPwY3xQmV6JpN": {
+            "name": "Mostra de Teatro Amador",
+            "description": "Assista a apresentações emocionantes de grupos de teatro locais.",
+            "location": "Teatro Municipal",
+            "date": 1646074800000,
+            "price": 10.00,
+            "images": [
+                "https://images.pexels.com/photos/5488369/pexels-photo-5488369.jpeg",
+                "https://images.pexels.com/photos/5488369/pexels-photo-5488369.jpeg"
+            ],
+            "hotels": [
+                {
+                    "name": "Hotel Teatral",
+                    "address": "Rua dos Palcos, 654",
+                    "proximity": 300,
+                    "dailyRate": 170.00
+                }
+            ]
+        },
+        "-Dt5Rp4qOxZ8lNmW2SqE": {
+            "name": "Feira de Livros Antigos",
+            "description": "Encontre tesouros literários em edições raras e antigas.",
+            "location": "Praça dos Livros",
+            "date": 1646161200000,
+            "price": 50.00,
+            "images": [
+                "https://images.pexels.com/photos/5488369/pexels-photo-5488369.jpeg",
+                "https://images.pexels.com/photos/5488369/pexels-photo-5488369.jpeg"
+            ],
+            "hotels": [
+                {
+                    "name": "Hotel das Páginas",
+                    "address": "Avenida da Leitura, 741",
+                    "proximity": 900,
+                    "dailyRate": 190.00
+                }
+            ]
+        },
+        "-Cm9Kp3zRqVx1sTl9FnY": {
+            "name": "Conferência de Tecnologia e Inovação",
+            "description": "Palestras e workshops sobre as últimas tendências em tecnologia.",
+            "location": "Centro de Eventos Tecnológicos",
+            "date": 1646247600000,
+            "price": 0.00,
+            "images": [
+                "https://images.pexels.com/photos/5488369/pexels-photo-5488369.jpeg",
+                "https://images.pexels.com/photos/5488369/pexels-photo-5488369.jpeg"
+            ],
+            "hotels": [
+                {
+                    "name": "Hotel Tech",
+                    "address": "Rua da Inovação, 852",
+                    "proximity": 1100,
+                    "dailyRate": 230.00
+                }
+            ]
+        },
+        "-Bl8Yq2xSpVz5rQo7DmT": {
+            "name": "Festival de Dança Folclórica",
+            "description": "Apresentações de danças tradicionais de várias culturas ao redor do mundo.",
+            "location": "Auditório Cultural",
+            "date": 1646334000000,
+            "price": 300.00,
+            "images": [
+                "https://images.pexels.com/photos/5488369/pexels-photo-5488369.jpeg",
+                "https://images.pexels.com/photos/5488369/pexels-photo-5488369.jpeg"
+            ],
+            "hotels": [
+                {
+                    "name": "Hotel Dança",
+                    "address": "Avenida dos Passos, 369",
+                    "proximity": 850,
+                    "dailyRate": 210.00
+                }
+            ]
+        },
+        "-Az6Xp1wQmZ9sVy4EkNl": {
+            "name": "Concurso de Fotografia Local",
+            "description": "Mostre seu talento capturando a essência da nossa cidade em imagens.",
+            "location": "Centro Cultural",
+            "date": 1646420400000,
+            "price": 0.00,
+            "images": [
+                "https://images.pexels.com/photos/5488369/pexels-photo-5488369.jpeg",
+                "https://images.pexels.com/photos/5488369/pexels-photo-5488369.jpeg"
+            ],
+            "hotels": [
+                {
+                    "name": "Hotel Fotográfico",
+                    "address": "Rua das Lentes, 963",
+                    "proximity": 950,
+                    "dailyRate": 240.00
+                }
+            ]
+        }
+    }
+}
